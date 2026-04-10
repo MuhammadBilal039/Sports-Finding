@@ -1,25 +1,28 @@
-export const text = {
+const text = {
   appName: "SportFinding",
 
   navbar: {
     home: "Home",
-    discoverMatches: "Discover Matches",
-    createMatch: "Create Match",
-    players: "Players",
+    features: "Features",
+    about: "About",
+    download: "Download",
     contact: "Contact",
     login: "Log In",
     signup: "Sign Up",
   },
 
   banner: {
-    newFeature: "New: Tournament Mode Out Now",
+    newFeature: "Join 10,000+ players across Denmark",
   },
 
   hero: {
-    title1: "Find Players",
-    title2: "Join Matches",
-    title3: "Play Better",
+    title1: "Find Players ",
+    title2: "In Denmark & Join",
+    title3: "Matches Easily",
     searchPlaceholder: "Search sports or locations...",
+    description:
+      "Connect with local athletes, join sports matches, and elevate your game — all from one app. Used across major cities in Denmark.",
+    status: "Available on",
   },
 
   createMatch: {

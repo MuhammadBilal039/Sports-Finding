@@ -3,6 +3,10 @@ const colors = {
   primary: "#3EA7FD",
   primary10: "rgba(62,167,253,0.1)",
   primary20: "rgba(62,167,253,0.2)",
+  bgNav: "#F1F9FF",
+
+  // text
+  textPrimaryNav: "#0EA5E9",
 
   // Base
   white: "#FFFFFF",
