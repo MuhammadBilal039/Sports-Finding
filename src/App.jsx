@@ -1,10 +1,12 @@
-import Mockups from "./Mockup";
+import Hero from "./components/Hero/Hero";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
-    <div className="mockup">
-      <Mockups />
-    </div>
+    <>
+      <Navbar />
+      <Hero />
+    </>
   );
 }
 
