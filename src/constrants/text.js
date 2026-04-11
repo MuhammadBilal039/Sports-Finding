@@ -23,6 +23,8 @@ const text = {
     description:
       "Connect with local athletes, join sports matches, and elevate your game — all from one app. Used across major cities in Denmark.",
     status: "Available on",
+    location: "Active in Copenhagen, Aarhus, Odense",
+    rating: "4.9/5 Rating",
   },
 
   createMatch: {
